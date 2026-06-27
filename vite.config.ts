@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/Taiwanese-handcrafted-paper-products/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
