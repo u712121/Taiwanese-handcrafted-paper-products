@@ -1,0 +1,6 @@
+{
+  "name": "台灣手作紙物產圖鑑",
+  "description": "輸入台灣故鄉縣市與鄉鎮市區，自動探索當地可用於製作手工紙的植物或農產品，並動態模擬手工紙圖示，標示「物產名稱+紙」並提供味覺、嗅覺與視覺等感官特色說明。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
